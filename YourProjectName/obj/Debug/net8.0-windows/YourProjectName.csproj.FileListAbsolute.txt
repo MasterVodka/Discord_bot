@@ -1,0 +1,14 @@
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\bin\Debug\net8.0-windows\YourProjectName.exe
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\bin\Debug\net8.0-windows\YourProjectName.deps.json
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\bin\Debug\net8.0-windows\YourProjectName.runtimeconfig.json
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\bin\Debug\net8.0-windows\YourProjectName.dll
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\bin\Debug\net8.0-windows\YourProjectName.pdb
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.AssemblyInfoInputs.cache
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.AssemblyInfo.cs
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.csproj.CoreCompileInputs.cache
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.dll
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\refint\YourProjectName.dll
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.pdb
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\YourProjectName.genruntimeconfig.cache
+C:\Users\MasterVodka\Desktop\GGST_TEKKEN\Discord_bot\YourProjectName\obj\Debug\net8.0-windows\ref\YourProjectName.dll
